@@ -8,8 +8,6 @@ import PIL.Image
 import os
 from platform import system
 
-print("Specially made for: 'Mexerica', with <3")
-
 dirPath = os.path.dirname(os.path.realpath(__file__))
 
 ASCIIchars = ["@", "#", "S", "%", "?", "*", "+", ";", ":", ",", "."]
